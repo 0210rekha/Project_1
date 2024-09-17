@@ -58,7 +58,7 @@ To set up the project, follow these steps:
 
 Once you’ve completed the installation, you can proceed with the following:
 
- Clone the Repository: git clone https://github.com/Hari1327/Project_1_Youtube_Data_Harvesting_and_Data_Warehousing.git
+ Clone the Repository: git clone https://github.com/0210rekha/Project_1.git
 
  Run the Streamlit Web Application: Start the Streamlit app using the following command: streamlit run youtube_app.py
 
