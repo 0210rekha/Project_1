@@ -77,5 +77,5 @@ We welcome contributions! If you'd like to improve the project or have any sugge
 
 ****** Demo ******
 
-Watch a detailed walkthrough and demo on YouTube: Demo Video
+Watch a detailed walkthrough and demo on linkedin: https://www.linkedin.com/posts/rekha-b-94366a329_youtubedata-datawarehousing-automation-activity-7241674382878638080-ZfS8?utm_source=share&utm_medium=member_desktop
 
